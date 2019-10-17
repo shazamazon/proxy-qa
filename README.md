@@ -46,14 +46,15 @@ Some unexpected issues I ran into while building this app:
 
 #### User Stories
 
-- As a User, I should be able to see the price of the current item.
-- As a User, I should be able to see Shazamazon prime qualification based on price.
-- As a User, I should be able to add the item to my cart, and have it communicated to the NavBar.
-- As a User, I should be able be able to click buy-it-now and confirm my purchase in a modal.
+- As a User, I should be able to see the questions asked of the current product.
+- As a User, I should be able to see the corresponding answers to each product question.
+- As a User, I should be able to expand the list of viewable questions/answers.
+- As a User, I should be able to upvote or downvote questions/answers.
+- As a User, I should be able be able to see the current number of questions answered for the current product on the Product Description.
 
 ### Minimum Viable Product (MVP)
 
-The MVP of the app displays all the relevant price and shipping info, based on the current product.
+The MVP of the app displays all questions and answers with the ability to vote on each. The MVP displays a mock search-bar for Q&A filtering and renders Q&As based on the current product being viewed.
 
 ### How the App Works
 
